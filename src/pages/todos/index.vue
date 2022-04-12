@@ -18,7 +18,7 @@
     
     
     <div v-if="!todos.length">
-      There is nothing to display
+      There is nothing to display.
     </div>
     <TodoList 
       :todos="todos" 
